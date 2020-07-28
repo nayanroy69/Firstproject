@@ -9,5 +9,6 @@ public class TestClass {
 	public void testing() {
 		WebDriver driver=new ChromeDriver();
 		driver.get("http://automationpractice.com/index.php");
+		
 	}
 }
